@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb1ca8228816aaf1",
@@ -221,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d2a092e5a33e3ddd",
+  "active": "89f466d842a1c9f4",
   "lastOpenFiles": [
     "Tiếng anh.md",
     "01-01-2026.md",
