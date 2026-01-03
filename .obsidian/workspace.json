@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Computer Science/Theory/RAM.md",
+                "file": "5. Daily Note/January/03-01-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAM"
+              "title": "03-01-2026"
             }
           },
           {
@@ -293,9 +293,9 @@
   },
   "active": "d62a626500698095",
   "lastOpenFiles": [
+    "1. Project/Computer Science/Theory/RAM.md",
     "1. Project/Computer Science/Computer Architecture",
     "4. Archives/Computer Science/Hardware/Dram_zelle.png",
-    "1. Project/Computer Science/Theory/RAM.md",
     "4. Archives/Unconfirmed 454079.crdownload",
     "4. Archives/Computer Science/Hardware",
     "4. Archives/Computer Science",
@@ -309,7 +309,6 @@
     "3. Resources",
     "2. Area",
     "1. Project/Computer Science/Tool",
-    "1. Project/Computer Science/Theory",
     "6. Plan/Trước khi học Rust.md",
     "5. Daily Note/Untitled.md",
     "4. Archives/Computer Science/Hardware/RAM_n.jpg",

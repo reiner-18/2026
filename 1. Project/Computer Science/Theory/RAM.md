@@ -70,6 +70,10 @@ Bộ nhớ DRAM chậm hơn rẻ tiền hơn SRAM
 
 | DRAM được dùng làm bộ nhớ chính (RAM)
 
+### Các loại DRAM
+
+
+
 ## Mục chưa hoàn thành
 
 - [ ] RAM Module
@@ -99,7 +103,7 @@ Bộ nhớ DRAM chậm hơn rẻ tiền hơn SRAM
 		- 184-chân: Dùng cho DDR1
 		- 240-chân: Dùng cho DDR2 và DDR3
 		- 288-chân: Dùng cho DDR4 và DDR5
-	- **SO-DIMM (Small Outline DIMM):** Phiên bản nhỏ hơn của DIMM, được sử dụng cho Laptop và các hệ thống nhỏ gọn
+	- SO-DIMM (Small Outline DIMM):** Phiên bản nhỏ hơn của DIMM, được sử dụng cho Laptop và các hệ thống nhỏ gọn
 [^4]: **Double Data Rate**: Cải tiến lớn nhất là truyền tải dữ liệu hai lần trên mỗi chu kỳ xung nhịp (cạnh lên và cạnh xuống), điều này làm tăng gấp đôi hiệu suất truyền tải mà không cần tăng số lượng xung nhịp quá nhiều.
 
 [^5]: **Synchronous DRAM**: RAM đồng bộ với xung nhịp hệ thống (Trước đó là Asynchronous RAM)
