@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarCog",
+      "LiCompass",
       "LiPlane",
       "LiCalendarDays",
-      "LiArchive",
-      "LiPackage",
-      "LiWrench"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,9 +35,9 @@
     "useInternalPlugins": false
   },
   "1. Project": "LiPin",
-  "2. Area": "LiWrench",
+  "2. Area": "LiCompass",
   "3. Resources": "LiPackage",
   "4. Archives": "LiArchive",
-  "5. Daily Note": "LiCalendarDays",
+  "5. Daily Note": "LiCalendarCog",
   "6. Plan": "LiPlane"
 }

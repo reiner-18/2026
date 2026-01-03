@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/January/03-01-2026.md",
+                "file": "2. Area/Cơ thể con người/Phụ nữ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-01-2026"
+              "title": "Phụ nữ"
             }
           },
           {
@@ -293,6 +293,15 @@
   },
   "active": "d62a626500698095",
   "lastOpenFiles": [
+    "1. Project/Computer Science/Tool/GNU Debugger.md",
+    "2. Area/Cơ thể con người/Phụ nữ.md",
+    "2. Area/Cơ thể con người/Phụ nữ/Sinh lý học.md",
+    "2. Area/Cơ thể con người/Phụ nữ",
+    "2. Area/Cơ thể con người",
+    "1. Project/Computer Science/Theory/Stack và Heap.md",
+    "6. Plan/Tiếng anh.md",
+    "6. Plan/Trước khi học Rust.md",
+    "5. Daily Note/January/03-01-2026.md",
     "1. Project/Computer Science/Theory/RAM.md",
     "1. Project/Computer Science/Computer Architecture",
     "4. Archives/Computer Science/Hardware/Dram_zelle.png",
@@ -307,17 +316,10 @@
     "3. Resources/Link Reference",
     "5. Daily Note/January/01-01-2026.md",
     "3. Resources",
-    "2. Area",
-    "1. Project/Computer Science/Tool",
-    "6. Plan/Trước khi học Rust.md",
     "5. Daily Note/Untitled.md",
     "4. Archives/Computer Science/Hardware/RAM_n.jpg",
-    "1. Project/Computer Science/Theory/Stack và Heap.md",
-    "1. Project/Computer Science/Tool/GNU Debugger.md",
     "Untitled.md",
-    "5. Daily Note/January/03-01-2026.md",
     "1. Project/Computer Science/Theory/Pointer.md",
-    "6. Plan/Tiếng anh.md",
     "5. Daily Note/January/02-01-2026.md"
   ]
 }
