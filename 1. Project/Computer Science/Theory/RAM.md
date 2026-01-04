@@ -68,17 +68,77 @@ Là một loại bộ nhớ truy cập ngẫu nhiên lưu mỗi bit dữ liệu 
 
 Bộ nhớ DRAM chậm hơn rẻ tiền hơn SRAM
 
-| DRAM được dùng làm bộ nhớ chính (RAM)
+| DRAM được dùng làm bộ nhớ chính (RAM
 
+> [!note] So sánh
+> - SRAM: Nhanh hơn DRAM khoảng 10 lần, không cần làm mới dữ liệu và không nhạy cảm với nhiễu điện, nhưng đắt đỏ
+> - DRAM: Chậm hơn do cấu tạo dựa trên tụ điện, phải làm mới dữ liệu sau mỗi 10 đến 100 mili giây để tránh mất dữ liệu, bù lại có giá thành rẻ hơn và mật độ lưu trữ cao.
 ### Các loại DRAM
 
+- **SDR DRAM (Single Data Rate)**: Loại cũ, không còn phổ biến, tốc độ thấp
+- **DDR SDRAM (Double Data Rate)**: Cải tiến từ SDR, truyền tải dữ liệu hai lần mỗi chu kỳ xung nhịp. Gồm các thế hệ:
+	- **DDR1, DDR2, DDR3, DDR4, DDR5, DDR6** (Đang trong giai đoạn phát triển)
+- **LPDDR (Low Power DDR)**: Thiết kế tiết kiệm điện năng tối đa, dùng cho điện thoại, máy tính bảng.
+- **GDDR (Graphics DDR)**: Tối ưu cho card đồ họa, xử lý dữ liệu đồ họa nhanh, gồm GDDR5, GDDR6
+- **HBM (High Bandwidth Memory)**: Băng thông cực cao, dùng cho các ứng dụng đòi hỏi hiệu suất đỉnh cao (AI, máy chủ).
 
+### Phân loại theo ứng dụng và công nghệ
 
-## Mục chưa hoàn thành
+- **DRAM thông thường:** Dùng trong máy tính, PC, Laptop (DDR4, DDR5)
+- ECC DRAM (Error-Correcting Code): Có khả năng tự sửa lỗi, dùng cho các ứng dụng đòi hỏi hiệu suất cao.
 
-- [ ] RAM Module
-- [ ] Thông số
-- [ ] 
+## Các thông số của RAM
+
+Được phân loại theo chuẩn JEDEC.
+
+### Dung lượng
+
+Dung lượng RAM được tính bằng MB và GB, thông thường RAM được thiết kế với các dung lượng 256 MB, 512 MB, 1GB, 2 GB, 3GB, 4 GB, 6 GB, 8 GB, 16 GB, 32 GB, ... Dung lượng của RAM càng lớn càng tốt cho hệ thống, tuy nhiên không phải tất cả hệ thống phần cứng và hệ điều hành đều hỗ trợ các loại RAM dung lượng lớn.
+### BUS
+
+BUS là thông số đại diện cho "độ rộng và tốc độ của đường truyền dữ liệu".
+
+**Phân loại**
+
+Có hai loại BUS: BUS Speed và BUS Width.
+
+- BUS Speed chính là BUS RAM, là tốc độ được xử lý trong một giây
+- BUS Width là chiều rộng của bộ nhớ, các loại RAM DDR, DDR2, DDR3, DDR4, DDR5 hiện nay đều có BUS Width cố định là 64
+
+Công thức tính bằng thông (bandwidth) từ BUS Speed và BUS Width:
+
+> **Bandwidth = (Bus Speed x Bus Width) / 8**
+
+Bandwidth là tốc độ tối đa RAM có thể đọc được trong một giây. Bandwidth được ghi trên RAM là con số tối đa theo lý thuyết. Trên thực tế, bandwidth thường thấp hơn và không thể vượt quá được con số lý thuyết.
+
+### Độ trễ (Latency)
+
+Latency hay còn gọi là **thời gian truy cập**, đóng vai trò cực kỳ quan trọng trong hiệu suất tổng thể của hệ thống vì nó quyết định tốc độ dữ liệu được cung cấp cho bộ vi xử lý.
+
+#### 1. RAM trong hệ thống phân cấp độ trễ
+
+Trong hệ thống lưu trữ, các thiết bị nằm càng gần CPU thì càng nhanh và có độ trễ càng thấp. RAM (bộ nhớ chính) có độ trễ lớn hơn nhiều so với các tầng ở phía trên nó:
+
+- **Thanh ghi CPU (Registers):** Độ trễ bằng 0 chu kỳ (truy cập ngay lập tức trong quá trình thực thi lệnh)
+- **Bộ nhớ đệm (Cache L1-L3):** Mất khoảng 4 đến 75 chu kỳ CPU
+- **Bộ nhớ chính (RAM):** Tốn tới hàng trăm chu kỳ CPU
+- **Đĩa cứng (Disk):** Chậm nhất với độ trễ lên đến hàng triệu chu kỳ
+
+#### 2. Khoảng cách hiệu suất (Processor-Memory Gap)
+
+Một thực trạng đáng chú ý là **tốc độ CPU đang twang nhanh hơn nhiều so với tốc độ của RAM**. Kể từ năm 1985, thời gian truy cập của SRAM (dùng cho cache) đã giảm khoảng 100 lần, nhưng thời gian truy cập của DRAM chỉ giảm khoảng 10 lần. Điều này tạo ra một khoảng cách hiệu suất ngày càng lớn, khiến cho bộ nhớ chính trở thành nút thắc cổ chai buộc CPU phải chờ đợi dữ liệu lâu hơn.
+
+#### 3. "Hình phạt" khi lỡ nhịp bộ nhớ (Miss Penalty)
+
+Khi dữ liệu không có sẵn trong các tầng bộ nhớ đệm, hệ thống phải truy vấn xuống tầng thấp hơn, gây ra khoảng thời giờ gọi là **miss penalty**.
+
+- Nếu CPU không tìm thấy dữ liệu ở L1 và phải lấy từ L2: mất khoảng 10 chu kỳ
+- Nếu phải lấy từ L3: mất khoảng 50 chu kỳ
+- Nếu phải lấy trực tiếp từ RAM chính: hệ thống phải mất 200 chu kỳ
+
+## Phân tính hình ảnh thực tế từ RAM
+
+![[VietTai-RAM.png]]
 --- 
 [^1]: Dual In-line Package
 	- **Thời kỳ**: 1970 - 1980
