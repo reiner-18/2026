@@ -8,12 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efd4fb405ac9d49e",
+            "id": "420f7801504c0a6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Computer Science/Theory/RAM.md",
+                "file": "5. Daily Note/January/06-01-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-01-2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac72ae99b2e793d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a42cb76e995332f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Computer Science/Hardware/RAM.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,23 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trước khi học Rust.md",
+                "file": "5. Daily Note/January/06-01-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trước khi học Rust"
-            }
-          },
-          {
-            "id": "36b6df0d816d0f58",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline of 06-01-2026"
             }
           },
           {
@@ -184,9 +194,37 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f6cd9b02aa00950f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "5. Daily Note/January/06-01-2026.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "a15bb1a0f1b0aa1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b6df0d816d0f58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,24 +241,32 @@
       "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "efd4fb405ac9d49e",
+  "active": "89f466d842a1c9f4",
   "lastOpenFiles": [
+    "3. Resources/Link Reference.md",
+    "5. Daily Note/January/06-01-2026.md",
+    "1. Project/Computer Science/Hardware/RAM.md",
+    "4. Archives/Computer Science/Hardware/Dram_zelle.png",
+    "5. Daily Note/January/05-01-2026.md",
+    "4. Archives/Computer Science/Hardware/6t-SRAM-cell.png",
+    "4. Archives/Computer Science/Hardware/nternal-DRAM-organization-DRAM-is-organized-in-banks-each-of-which-contains-matrices-of.png",
+    "4. Archives/Computer Science/Hardware/RAM_n.jpg",
     "4. Archives/Computer Science/Hardware/VietTai-RAM.png",
-    "1. Project/Computer Science/Theory/RAM.md",
+    "4. Archives/Computer Science/Hardware/Unconfirmed 438491.crdownload",
     "1. Project/Computer Science/Theory/Stack và Heap.md",
+    "1. Project/Computer Science/Hardware",
+    "1. Project/Computer Science/Tool/GNU Debugger.md",
     "5. Daily Note/January/04-01-2026.md",
     "4. Archives/Computer Science/Hardware/RAM-thuc-te.png",
     "5. Daily Note/January/03-01-2026.md",
-    "4. Archives/Computer Science/Hardware/RAM_n.jpg",
-    "4. Archives/Computer Science/Hardware/Dram_zelle.png",
     "Untitled.canvas",
     "4. Archives/Computer Science/Hardware/RAM-thuc-te.jpeg",
     "1. Project/Computer Science/Theory/Pointer.md",
     "2. Area/Cơ thể con người/Phụ nữ.md",
-    "1. Project/Computer Science/Tool/GNU Debugger.md",
     "2. Area/Cơ thể con người/Phụ nữ/Sinh lý học.md",
     "2. Area/Cơ thể con người/Phụ nữ",
     "2. Area/Cơ thể con người",
@@ -230,14 +276,10 @@
     "4. Archives/Unconfirmed 454079.crdownload",
     "4. Archives/Computer Science/Hardware",
     "4. Archives/Computer Science",
-    "4. Archives/Computer Science/Hardware/6t-SRAM-cell.png",
     "4. Archives/Unconfirmed 95952.crdownload",
-    "3. Resources/Link Reference.md",
     "3. Resources/Book/Health.md",
     "3. Resources/Book",
-    "3. Resources/Link Reference",
     "5. Daily Note/January/01-01-2026.md",
-    "3. Resources",
     "5. Daily Note/Untitled.md",
     "Untitled.md",
     "5. Daily Note/January/02-01-2026.md"

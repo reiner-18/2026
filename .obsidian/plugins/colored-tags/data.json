@@ -1,0 +1,20 @@
+{
+  "palette": {
+    "seed": 6,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": false,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "computer_science": 1,
+    "electronics_engineering": 2,
+    "semiconductor_physics": 3,
+    "computer_science/computer_hardware": 1
+  },
+  "tagColors": {},
+  "_version": 4
+}
