@@ -10,10 +10,13 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "computer_science": 1,
-    "electronics_engineering": 2,
+    "computer_architecture": 1,
+    "computer_engineering": 1,
+    "hardware_layer": 2,
     "semiconductor_physics": 3,
-    "computer_science/computer_hardware": 1
+    "computer_architecture/memory": 1,
+    "computer_engineering/hardware": 1,
+    "hardware_layer/physical": 1
   },
   "tagColors": {},
   "_version": 4

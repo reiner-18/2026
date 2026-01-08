@@ -1,10 +1,14 @@
 ---
 tags:
-  - "#computer_science/computer_hardware"
-  - "#electronics_engineering"
+  - computer_engineering/hardware
+  - computer_architecture/memory
+  - hardware_layer/physical
   - semiconductor_physics
 property: Active
-topic: RAM
+topic:
+  - RAM
+  - Memory
+  - DRAM
 ---
 
 # RAM 
@@ -360,6 +364,9 @@ Cơ chế đọc DRAM:
 
 DRAM Cycle: READ $\rightarrow$ AMPLIFY $\rightarrow$ WRITE BACK
 
+%% Cần bổ sung %%
+Pre-bank refresh & Fine-grain refresh 
+
 ### Tổ chức vật lý của DRAM
 
 > [!info] Các cell được xếp thành ma trận
@@ -427,6 +434,20 @@ Mỗi lần activate/precharge
 	- capacitive coupling
 	- electromagnetic interference
 - Các cell ở row kế bên không được activate nhưng vẫn bị ảnh hưởng bởi điện trường
+
+%% Bổ sung thêm các phần này %%
+## Bank, Bank Group & Memory-Level Parallelism
+
+## Prefetch & Brust Length
+
+## Signal Integrity & Timing Margin
+
+## Power Delivery & Noise
+
+## Vì sao HBM gần như miễn nhiễm với RowHammer
+
+%% Kết thúc bài viết %%
+## Observable Effects
 
 --- 
 [^1]: Dual In-line Package
