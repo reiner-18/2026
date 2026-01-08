@@ -449,6 +449,7 @@ Mỗi lần activate/precharge
 %% Kết thúc bài viết %%
 ## Observable Effects
 
+%% Kết thúc: chuyển sang note mới [[Memory Controller]] %%
 --- 
 [^1]: Dual In-line Package
 	- **Thời kỳ**: 1970 - 1980

@@ -11,22 +11,14 @@
             "id": "95bc5bf240720752",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "6. Plan/RAM Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "1. Project/Computer Science/Hardware/RAM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "RAM Kanban"
+              "icon": "lucide-file",
+              "title": "RAM"
             }
           }
         ]
@@ -235,8 +227,8 @@
   },
   "active": "95bc5bf240720752",
   "lastOpenFiles": [
-    "1. Project/Computer Science/Hardware/RAM.md",
     "6. Plan/RAM Kanban.md",
+    "1. Project/Computer Science/Hardware/RAM.md",
     "5. Daily Note/January/08-01-2026.md",
     "5. Daily Note/January/07-01-2026.md",
     "5. Daily Note/January/06-01-2026.md",
