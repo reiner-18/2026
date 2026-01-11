@@ -1,0 +1,24 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "1. Project/RAM.md"
+    },
+    {
+      "basename": "RAM Kanban",
+      "path": "6. Plan/RAM Kanban.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "omittedTags": [
+    ""
+  ],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
