@@ -398,7 +398,8 @@ DDR4-3200 CL16-18-18-36
 
 #### DRAM Training
 
-DRAM Training là IMC huấn luyện thực tế dựa trên XMP/EXPO cung cấp gợi ý
+DRAM Training là IMC huấn luyện t
+hực tế dựa trên XMP/EXPO cung cấp gợi ý
 
 - IMC thử:
 	- delay
@@ -481,3 +482,4 @@ Mỗi lần activate/precharge
 
 
 [^6]: Overclocking Profiles là các tập hợp cài đặt tùy chỉnh (như tốc độ xung nhịp, điện áp, bộ nhớ) cho các linh kiện phần cứng (CPU, GPU, RAM) được lưu lại, cho phép người dùng áp dụng nhanh chóng các cấu hình ép xung hiệu năng cao khác nhau cho máy tính, thường thông qua phần mềm (như AI Overclocking của ASUS) hoặc BIOS/UEFI, để tối ưu hiệu suất cho từng tác vụ cụ (chơi game, render video), thay vì phải thiết lập thủ công mỗi lần.
+

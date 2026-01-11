@@ -17,7 +17,6 @@ kanban-plugin: list
 
 ## Todo
 
-- [ ] - Bank, Bank Group & Memory-level Parelleism
 - [ ] - Prefetch & Brust Length
 - [ ] - Signal Integrity & Timing Margin
 - [ ] - Power Delivery & Noise
@@ -27,6 +26,7 @@ kanban-plugin: list
 
 ## In Development
 
+- [ ] - Bank, Bank Group & Memory-level Parelleism
 
 
 ## Review
