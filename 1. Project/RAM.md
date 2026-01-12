@@ -436,8 +436,54 @@ Mỗi lần activate/precharge
 	- electromagnetic interference
 - Các cell ở row kế bên không được activate nhưng vẫn bị ảnh hưởng bởi điện trường
 
-%% Bổ sung thêm các phần này %%
 ## Bank, Bank Group & Memory-Level Parallelism
+
+### DRAM Bank là gì ?
+
+Một chip DRAM được chia thành nhiều Bank độc lập, mỗi Bank gồm:
+
+- Hàng
+- Cột
+- Một Row Buffer riêng cho mỗi Bank
+
+#### **Row Buffer** là gì ?
+
+Là một vùng lưu trữ riêng biệt bên trong mỗi Bank Memory, đóng vai trò như một bộ nhớ đệm tạm thời cho toàn bộ một hàng dữ liệu
+
+Quá trình đọc dữ liệu từ các ô nhớ DRAM gây mất điện tính trong tụ điện (đã nói ở phần [[#Vì sao gọi là RAM động (DRAM)|RAM động]]) nên dữ liệu phải chuyển vào Row Buffer.
+
+**Các chức năng chính**
+
+- Giảm độ trễ dữ liệu: Việc truy cập vào dữ liệu có sẵn gọi là row buffer hit nhanh đáng kể so với việc phải lấy dữ liệu trực tiếp từ mảng bộ nhớ (gọi là row buffer miss)
+- Hỗ trợ đọc dữ liệu: Nó giữ dữ liệu trong quá trình khôi phục, đảm bảo thông tin không bị mất sau khi được truy cập
+- Chọn lọc cột: mặc dù toàn bộ một hàng (thường từ 1KB đến 8KB) được chuyển vào bộ đệm, memory controller chỉ chọn 1 cột hoặc khối dữ liệu cụ thể đến CPU
+
+**Vấn đề hiệu năng**
+
+- Row Buffer Hit: Dữ liệu yêu cầu đã nằm sẵn trong bộ đệm từ lần truy cập trước $\rightarrow$ Độ trễ thấp nhất
+- Row Buffer Miss: Dữ liệu đang trống nên một hàng mới phải được kích hoạt $\rightarrow$ Độ trễ trung bình (Lệnh ACTIVATE)
+- Row Buffer Conflict: Một hàng khác đang nằm trong bộ đệm, nó phải được đóng lại trước khi hàng mới có thể mở ra $\rightarrow$ Độ trễ cao nhất (PRECHARGE $\rightarrow$ ACTIVATE $\rightarrow$ READ) gấp 2 lần so với miss và gấp 3 đến 4 lần so với hit
+
+**Về thông số kĩ thuật***
+
+Trong bộ nhớ DDR4 tiêu chuẩn, row buffer thường có độ rộng 8KB
+
+Chính sách quản lý
+
+- Open-Page: Giữ cho buffer luôn mở sau khi truy cập, dự đoán rằng sẽ có thêm yêu cầu truy cập khác vào cùng hàng đó (Dùng trong PC/Server phổ thông)
+- Closed-Page: Đóng hàng và nạp lại điện cho bộ nhớ ngay lập tức vì chúng các yêu cầu lần tiếp theo ít khi nằm chung một hàng, việc đóng hàng sớm giúp RAM luôn mở một hàng mới ở bất kỳ đâu mà không mất thêm thời gian chờ đóng hàng cũ (giảm thiểu Row Conflict) - Dùng trong hệ thống nhúng, Database.
+
+> [!note] Tại sao lại cần Bank Group ?
+> Bank Group có từ **DDR4**
+> - DDR3: có nhiều Bank và tất cả các Bank chia sẻ cùng bus nội bộ
+> - DDR4 / DDR5: Bank được gom thành Bank Group (16 banks $\rightarrow$ 4 bank groups $\times$ 4 banks) $\Rightarrow$ Cho phép lệnh tới các bank khác group được pipeline nhanh hơn (Phá vỡ giới hạn băng thông nội bộ của một DRAM chip)
+>   
+> Suy ra nếu phải truy cập Bank 0 và Bank 1 (cùng group) thì phải dùng chung bus nội bộ và nếu khác group có thể bị overleap
+> 
+> Interleaving across Bank Groups là điều kiện để khai thác Memory-Level Parallelism của CPU
+
+%% Công việc sáng %%
+### Memory-Level Parallelism 
 
 ## Prefetch & Brust Length
 
