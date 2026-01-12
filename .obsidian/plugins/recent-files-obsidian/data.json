@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "RAM",
-      "path": "1. Project/RAM.md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Trước khi học Rust",
+      "path": "6. Plan/Trước khi học Rust.md"
     },
     {
       "basename": "12-01-2026",
       "path": "5. Daily Note/January/12-01-2026.md"
     },
     {
+      "basename": "11-01-2026",
+      "path": "5. Daily Note/January/11-01-2026.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "1. Project/RAM.md"
+    },
+    {
       "basename": "10-01-2026",
       "path": "5. Daily Note/January/10-01-2026.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Memory Controller",
-      "path": "Memory Controller.md"
     },
     {
       "basename": "RAM-Excalidraw",
