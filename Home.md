@@ -4,7 +4,7 @@ Todo List hôm nay
 
 - [ ] ⏫ Hoàn thành [[RAM#Memory-Level Parallelism]]
 - [ ] 🔁 Kegel, các bài tập chân 
-- [ ] 🔽 Giặt đồ📅 
+- [x] 🔽 Giặt đồ📅 ✅ 2026-01-13
 
 ---
 ## Computer Science
