@@ -460,28 +460,37 @@ Quá trình đọc dữ liệu từ các ô nhớ DRAM gây mất điện tính 
 
 **Vấn đề hiệu năng**
 
-- Row Buffer Hit: Dữ liệu yêu cầu đã nằm sẵn trong bộ đệm từ lần truy cập trước $\rightarrow$ Độ trễ thấp nhất
-- Row Buffer Miss: Dữ liệu đang trống nên một hàng mới phải được kích hoạt $\rightarrow$ Độ trễ trung bình (Lệnh ACTIVATE)
-- Row Buffer Conflict: Một hàng khác đang nằm trong bộ đệm, nó phải được đóng lại trước khi hàng mới có thể mở ra $\rightarrow$ Độ trễ cao nhất (PRECHARGE $\rightarrow$ ACTIVATE $\rightarrow$ READ) gấp 2 lần so với miss và gấp 3 đến 4 lần so với hit
+- Row Buffer Hit: Dữ liệu yêu cầu đã nằm sẵn trong bộ đệm từ lần truy cập trước $\rightarrow$ Độ trễ thấp nhất (Lệnh `READ`)
+- Row Buffer Miss: Dữ liệu đang trống nên một hàng mới phải được kích hoạt $\rightarrow$ Độ trễ trung bình (Lệnh `ACTIVATE` $\rightarrow$ `READ`)
+- Row Buffer Conflict: Một hàng khác đang nằm trong bộ đệm, nó phải được đóng lại trước khi hàng mới có thể mở ra $\rightarrow$ Độ trễ cao nhất (`PRECHARGE` $\rightarrow$ `ACTIVATE` $\rightarrow$ `READ`) gấp 2 lần so với miss và gấp 3 đến 4 lần so với hit
 
 **Về thông số kĩ thuật***
 
-Trong bộ nhớ DDR4 tiêu chuẩn, row buffer thường có độ rộng 8KB
+Trong bộ nhớ DDR4 tiêu chuẩn, row buffer thường có độ rộng 8KB - 16KB, thực tế con số này tùy thuộc vào mật độ chip. Với các chip DDR4/DDR5 phổ thông hiện nay, mỗi Bank thường có một Row Buffer khoảng 1KB đến 2KB.
 
 Chính sách quản lý
 
 - Open-Page: Giữ cho buffer luôn mở sau khi truy cập, dự đoán rằng sẽ có thêm yêu cầu truy cập khác vào cùng hàng đó (Dùng trong PC/Server phổ thông)
 - Closed-Page: Đóng hàng và nạp lại điện cho bộ nhớ ngay lập tức vì chúng các yêu cầu lần tiếp theo ít khi nằm chung một hàng, việc đóng hàng sớm giúp RAM luôn mở một hàng mới ở bất kỳ đâu mà không mất thêm thời gian chờ đóng hàng cũ (giảm thiểu Row Conflict) - Dùng trong hệ thống nhúng, Database.
 
-> [!note] Tại sao lại cần Bank Group ?
-> Bank Group có từ **DDR4**
-> - DDR3: có nhiều Bank và tất cả các Bank chia sẻ cùng bus nội bộ
-> - DDR4 / DDR5: Bank được gom thành Bank Group (16 banks $\rightarrow$ 4 bank groups $\times$ 4 banks) $\Rightarrow$ Cho phép lệnh tới các bank khác group được pipeline nhanh hơn (Phá vỡ giới hạn băng thông nội bộ của một DRAM chip)
->   
-> Suy ra nếu phải truy cập Bank 0 và Bank 1 (cùng group) thì phải dùng chung bus nội bộ và nếu khác group có thể bị overleap
-> 
-> Interleaving across Bank Groups là điều kiện để khai thác Memory-Level Parallelism của CPU
+**Vấn đề của DDR3**
 
+DDR3 có nhiều Bank và tất cả các Bank nhưng lại bị giới hạn bởi kiến trúc nội tại của chip DRAM
+
+Sơ bộ DDR3
+
+- 8 hoặc 16 Bank mỗi chip
+- Mỗi Bank có một Row Buffer riêng
+
+$\Rightarrow$ Về mặt lý thuyết có thể xử lý nhiều request song song nhưng tất cả Bank lại dùng chung một internal data bus. (Bank có thể mở row song song nhưng chỉ cho phép truyền dữ liệu tại một thời điểm)
+
+Ví dụ:
+
+- Bank 0: ACTIVATE row A
+- Bank 1: PRECHARGE
+- Bank 2: ACTIVATE row B
+
+Nhưng khi đến READ/WRITE thì tất cả xếp hàng trên một Bus nội bộ dẫn đến data bus bị serialize
 %% Công việc sáng %%
 ### Memory-Level Parallelism 
 
