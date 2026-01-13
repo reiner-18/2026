@@ -10,3 +10,7 @@ Todo List hôm nay
 ## Computer Science
 
 - Phân cấp bộ nhớ trong máy tính (Memory Hierarchy)
+
+## Plan
+
+Cấu trúc lại toàn bộ bài viết RAM + kèm theo sơ đồ tư duy
