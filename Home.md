@@ -2,15 +2,13 @@
 
 Todo List hôm nay
 
-- [ ] ⏫ Hoàn thành [[RAM#Memory-Level Parallelism]]
+- [ ] ⏫ Chia module bài blog [[RAM]]
 - [ ] 🔁 Kegel, các bài tập chân 
-- [x] 🔽 Giặt đồ📅 ✅ 2026-01-13
+- [ ] 🔽 Giặt đồ
+- [ ] 🔼 Thay bình nước 
+- [ ] ⏫ Bơm nước 
+- [ ] 🔽 Setup thảm rubik 
+- [ ] 🔼 Viết nhật k
+- [ ] 🔽 Công thức OLL, PLL, Rubik skill
 
 ---
-## Computer Science
-
-- Phân cấp bộ nhớ trong máy tính (Memory Hierarchy)
-
-## Plan
-
-Cấu trúc lại toàn bộ bài viết RAM + kèm theo sơ đồ tư duy
