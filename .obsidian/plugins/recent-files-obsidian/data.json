@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "16-01-2026",
-      "path": "5. Daily Note/January/16-01-2026.md"
+      "basename": "RAM",
+      "path": "1. Project/RAM.md"
+    },
+    {
+      "basename": "SRAM",
+      "path": "1. Project/SRAM.md"
+    },
+    {
+      "basename": "RAM Rework",
+      "path": "1. Project/RAM Rework.md"
+    },
+    {
+      "basename": "18-01-2026",
+      "path": "5. Daily Note/January/18-01-2026.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "RAM Kanban",
+      "path": "6. Plan/RAM Kanban.md"
+    },
+    {
+      "basename": "Tiếng anh",
+      "path": "6. Plan/Tiếng anh.md"
+    },
+    {
+      "basename": "Trước khi học Rust",
+      "path": "6. Plan/Trước khi học Rust.md"
+    },
+    {
+      "basename": "RAM-Excalidraw",
+      "path": "Excalidraw/RAM-Excalidraw.md"
+    },
+    {
+      "basename": "17-01-2026",
+      "path": "5. Daily Note/January/17-01-2026.md"
+    },
+    {
+      "basename": "16-01-2026",
+      "path": "5. Daily Note/January/16-01-2026.md"
     },
     {
       "basename": "15-01-2026",
@@ -17,20 +53,8 @@
       "path": "5. Daily Note/January/14-01-2026.md"
     },
     {
-      "basename": "RAM",
-      "path": "1. Project/RAM.md"
-    },
-    {
-      "basename": "RAM Rework",
-      "path": "1. Project/RAM Rework.md"
-    },
-    {
       "basename": "13-01-2026",
       "path": "5. Daily Note/January/13-01-2026.md"
-    },
-    {
-      "basename": "Trước khi học Rust",
-      "path": "6. Plan/Trước khi học Rust.md"
     },
     {
       "basename": "12-01-2026",
@@ -43,14 +67,6 @@
     {
       "basename": "10-01-2026",
       "path": "5. Daily Note/January/10-01-2026.md"
-    },
-    {
-      "basename": "RAM-Excalidraw",
-      "path": "Excalidraw/RAM-Excalidraw.md"
-    },
-    {
-      "basename": "RAM Kanban",
-      "path": "6. Plan/RAM Kanban.md"
     }
   ],
   "omittedPaths": [

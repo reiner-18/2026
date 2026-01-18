@@ -1,14 +1,11 @@
 # Hello Viết Tài
 
-Todo List hôm nay
+Todo List tuần sau
 
-- [ ] ⏫ Chia module bài blog [[RAM]]
-- [ ] 🔁 Kegel, các bài tập chân 
-- [ ] 🔽 Giặt đồ
-- [ ] 🔼 Thay bình nước 
-- [ ] ⏫ Bơm nước 
-- [ ] 🔽 Setup thảm rubik 
-- [ ] 🔼 Viết nhật k
-- [ ] 🔽 Công thức OLL, PLL, Rubik skill
+- [ ] Đi làm răng 
+- [ ] Module RAM 
+- [ ] Logarit Toán học 
+- [ ] Học cách lập báo cáo tài chính 
+- [ ] Rebuild road map ôn thi đại học (UEH ngành Quản Trị Kinh Doanh)
 
 ---

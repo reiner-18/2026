@@ -13,22 +13,6 @@ topic:
 
 # RAM 
 
-**RAM** (viết tắt của **Random Access Memory)** là một loại bộ nhớ khả biến cho phép truy xuất read-write ngẫu nhiên đến bất kì vị trí nào trong bộ nhớ dựa vào địa chỉ ô nhớ. Thông tin lưu trên RAM là tạm thời, chúng sẽ bị mất đi khi không có nguồn điện cung cấp
-
-**RAM** có một đặc tính là thời gian thực hiện thao tác đọc ghi đối với mỗi ô nhớ là như nhau, cho dù đang ở bất kỳ vị trí nào trong ô nhớ. Mỗi ô nhớ của RAM đều có một địa chỉ. Mỗi ô nhớ là 8 bit, tuy nhiên hệ thống lại có thể đọc ghi vào nhiều byte (2, 4, 8 byte) cùng một lúc. (Cơ chế này liên quan mật thiết với Structure Padding).
-
-> [!info] Một số loại ram.
-> Từ trên xuống: [^1]DIP, SIPP, [^2]SIMM 30 chân, SIMM 72 chân, [^3]DIMM (16 chân), DDR DIMM (184-chân)
-> 
-  ![[RAM_n.jpg]]
-
-> [!abstract]- Mục lục
-> - [[#Lịch sử|Lịch sử]]
-> - [[#Các nhà sản xuất RAM nổi tiếng|Các nhà sản xuất RAM nổi tiếng]]
-> - [[#Phân loại RAM|Phân loại RAM]]
-> 	- [[#Phân loại RAM#RAM Tĩnh|RAM Tĩnh]]
-> 	- [[#Phân loại RAM#RAM động|RAM động]]
-
 ## Lịch sử
 
 - DRAM Intel 1103, ra đời năm 1970, là sản phẩm DRAM đầu tiên
@@ -43,20 +27,6 @@ topic:
 > - DIPP, SIMM, DIMM: mô tả hình thức vật lý của RAM. DIMM là chuẩn hiện đại.
 > - DDR, DDR2, DDR3, etc: Mô tả công nghệ chip bên trong.
 
-## Các nhà sản xuất RAM nổi tiếng
-
-Big Three trong ngành công nghiệp chip nhớ DRAM. không chỉ cung cấp các thanh ram mà còn cung cấp chip cho các nhà sản xuất điện thoại thông minh, máy chủ và data centre.
-
-1. **Samsung Electronics**: Người khổng lồ, dẫn đầu về công nghệ. Thị phần ước tính 40% - 45%n
-2. **SK Hynix**: Đối thủ của Samsung và là nhà sản xuất lớn thứ 2. Là công ty tiên phong trong công nghệ HBM, một loại bộ nhớ rất quan trọng cho các ứng dụng trí tuệ hân tạo và data centre hiệu năng cao. Thị phần ước tính 25% - 30%
-3. **Micron Technology**: Là nhà sản xuất DRAM lớn duy nhất của Hoa Kỳ. Micron sản xuất dưới thương hiệu riêng như Crucial và cũng cung cấp chip cho các nhà sản xuất khác. Thị phần khoảng 20% đến 25%.
-
-> [!hint] Lưu ý
-> Khi mua một thanh RAM như **Kingston, Corsair, G.Skill hay Crucial**, ta đang mua sản phẩm của các nhà sản xuất module và nhà đóng gói.
-> - Các công ty này không tự sản xuất chip DRAM
-> - Họ mua chip thô rồi sau đó láp ráp chúng lên bản mạch in (PCB), gắn tản nhiệt và bán ra thị trường với chế độ bảo hành riêng.
-> 
-> > Thị phần được nói ở trên là thị phần chip nhớ, không phải bán lẻ
 
 ## Phân loại RAM
 
