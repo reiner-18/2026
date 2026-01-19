@@ -1,0 +1,14 @@
+/* Xoay ngang 90 độ */
+img[alt*="rotate-90"] {
+    transform: rotate(90deg);
+}
+
+/* Xoay ngược 180 độ */
+img[alt*="rotate-180"] {
+    transform: rotate(180deg);
+}
+
+/* Xoay 270 độ */
+img[alt*="rotate-270"] {
+    transform: rotate(270deg);
+}

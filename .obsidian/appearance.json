@@ -1,4 +1,5 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#2a1fc1"
+  "accentColor": "#2a1fc1",
+  "enabledCssSnippets": []
 }

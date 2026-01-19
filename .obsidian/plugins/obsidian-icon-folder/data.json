@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiComputer",
       "LiSigma",
       "LiBraces",
       "LiNotebook",
-      "LiWallet",
-      "LiCalendarCog"
+      "LiWallet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "3. Resources/Doanh nghiệp & Thị trường": "LiWallet",
   "3. Resources/Sách & Media": "LiNotebook",
   "3. Resources/Lập trình và công nghệ": "LiBraces",
-  "3. Resources/Khoa học cơ bản": "LiSigma"
+  "3. Resources/Khoa học cơ bản": "LiSigma",
+  "1. Project/Computer": "LiComputer"
 }
