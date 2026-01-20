@@ -10,7 +10,7 @@
     "TQ_short_mode": "checkbox",
     "TQ_show_backlink": "checkbox",
     "TQ_show_cancelled_date": "checkbox",
-    "TQ_show_created_date": "date",
+    "TQ_show_created_date": "checkbox",
     "TQ_show_depends_on": "checkbox",
     "TQ_show_done_date": "checkbox",
     "TQ_show_due_date": "checkbox",

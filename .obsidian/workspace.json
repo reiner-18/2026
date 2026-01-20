@@ -11,10 +11,14 @@
             "id": "662b86a9b91e1b8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5. Daily Note/January/20-01-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20-01-2026"
             }
           }
         ]
@@ -222,6 +226,8 @@
   },
   "active": "53acdb839416c1c7",
   "lastOpenFiles": [
+    "Home.md",
+    "5. Daily Note/January/20-01-2026.md",
     "Link Reference.md",
     "2. Area/Computer/Hardware",
     "3. Resources/Tham khảo",
@@ -256,7 +262,6 @@
     "Pasted image 20260120093822.png",
     "4. Archives/Computer/Hardware/RAM/RAM-1969.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 291814.crdownload",
-    "Home.md",
     "6. Plan/Sketch/Tiếng anh.md",
     "5. Daily Note/January/17-01-2026.md",
     "5. Daily Note/January/16-01-2026.md",
