@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71567439fb340774",
+        "id": "ac4a1e2844e7d6f2",
         "type": "tabs",
         "children": [
           {
-            "id": "abf70df9abdd85dd",
+            "id": "662b86a9b91e1b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -224,13 +220,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "abf70df9abdd85dd",
+  "active": "53acdb839416c1c7",
   "lastOpenFiles": [
     "Link Reference.md",
-    "3. Resources/Lập trình và công nghệ/Computer/Hardware",
+    "2. Area/Computer/Hardware",
     "3. Resources/Tham khảo",
-    "3. Resources/Lập trình và công nghệ/Computer/Hardware/RAM - MoC.md",
-    "3. Resources/Lập trình và công nghệ/Computer",
+    "2. Area/Computer/Hardware/RAM - MoC.md",
+    "2. Area/Computer",
     "6. Plan/Kanban",
     "6. Plan/Sketch",
     "Untitled Kanban.md",
