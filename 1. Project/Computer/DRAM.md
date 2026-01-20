@@ -1,15 +1,14 @@
----
-property: Active
-topic:
----
-
-# RAM 
+# DRAM
 
 ## Lịch sử
 
 - DRAM Intel 1103, ra đời năm 1970, là sản phẩm DRAM đầu tiên
 - SDR và SDRAM cuối thập niên 90, thế hệ RAM đầu tiên được tích hợp trên laptop. Tốc độ chậm và bộ nhớ ít.
-- [^4]DDR và [^5]SDRAM cuối 2003 đến cuối 2009. Tốc độ nhanh hơn và dung lượng lớn hơn (lên đến 4GB). Tiết kiệm năng lượng hơn so với DDR1. Phổ biến cùng thời điểm với Windows XP (2003).
+- [^4]DDR và [^5]SDRAM 
+
+- DRAM Intel 1103, ra đời năm 1970, là sản phẩm DRAM đầu tiên
+- SDR và SDRAM cuối thập niên 90, thế hệ RAM đầu tiên được tích hợp trên laptop. Tốc độ chậm và bộ nhớ ít.
+- [^4]DDR và [^5]SDRAM cuối 2003 đến cuối 2009. Tốc độ nhanh hơn và dung lượng lớn hơn (lên đến 4GB). Ticuối 2003 đến cuối 2009. Tốc độ nhanh hơn và dung lượng lớn hơn (lên đến 4GB). Tiết kiệm năng lượng hơn so với DDR1. Phổ biến cùng thời điểm với Windows XP (2003).
 - DDR3 và SDRAM ra mắt 2007, phổ biến cuối 2009 Tốc độ rất nhanh và dung lượng lớn (lên đến 16GB/thanh). Tiết kiệm năng lượng hơn 30% so với DDR2.
 - DDR3L Ra mắt cùng với DDR3 (hợp tác với Kingston/Intel) Phiên bản Low-Power của DDR3, sử dụng điện thế 1.35V thay vì 1.5V. Thiết kế cho laptop cao cấp và máy chủ.
 - DDR4 và SDRAM ra mắt sau 8 năm DDR3. Giảm điện năng tiêu thụ hơn, tăng số tùy chọn xng nhịp và chu kỳ (timing). Giới hạn xung nhịp lý thuyết vượt qua 2133 MHz của DDR3

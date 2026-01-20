@@ -2,15 +2,17 @@
 tags:
   - computer/computer_hardware/storage_devices
 topic:
-  - RAM
 property: Done
+TQ_show_created_date: 2026-01-16
+closed: 2026-01-20
+TQ_show_id:
 ---
 
 # RAM 
 
 RAM là gì một phần cứng trong máy tính, viết đầy đủ là Random Access Memory (Bộ nhớ truy cập ngẫu nhiên). Là một bộ nhớ tạm thời, tốc độ cao, dùng để lưu trữ dữ liệu và lệnh mà [[CPU]] cần xử lý ngay lập tức. 
 
-> [!info] Hình ảnh về RAM
+> [!info]- Hình ảnh về RAM
 > ![[RAM_n.jpg]]
 
 Chức năng chính của **RAM**
@@ -59,7 +61,7 @@ Cùng thời gian đó, bộ nhớ Rambus DRAM được phát triển như một
 Thế kỉ 21 là kỷ nguyên của Double Data Data SDRAM, tăng gấp đôi tốc độ truyền dữ liệu của SDRAM truyền thống bằng cách truyền dữ liệu trên cả cạnh lên và cạnh xuống của tín hiệu xung nhịp. DDR SDRAM được giới thiệu vào năm 2000 và ảnh hưởng mạnh đến tính toán, cho phép tốc độ xử lý nhanh hơn và hiệu quả hơn. Các thế hệ tiếp theo bao gồm DDR2, DDR3, DDR4 và DDR5 tiếp tục cải tiến dựa trên cơ sở này và hiệu quả ngày càng vượt trội.
 ## Phân loại RAM
 
-RAM được chia làm hai loại chính: [[SRAM|RAM Tĩnh]] và [[DRAM|RAM Động]], trong đó DRAM phổ biến hơn và được chia thành nhiều thế hệ như DDR, DDR2, DDR3, DDR4, DDR5 với tốc độ và hiệu năng thăng tiến, trong khi SRAM dùng trong bộ nhớ cache có tốc độ cao.
+RAM được chia làm hai loại chính: [[DRAM|RAM Tĩnh]] và [[DRAM|RAM Động]], trong đó DRAM phổ biến hơn và được chia thành nhiều thế hệ như DDR, DDR2, DDR3, DDR4, DDR5 với tốc độ và hiệu năng thăng tiến, trong khi SRAM dùng trong bộ nhớ cache có tốc độ cao.
 
 Ngoài ra, còn có các loại RAM khác như VRAM, sử dụng trong việc xử lý hình ảnh, video tốc độ cao và Flash Memory là loại bộ nhớ không bay hơi (non-volatile) dùng trong USB, SSD.
 
