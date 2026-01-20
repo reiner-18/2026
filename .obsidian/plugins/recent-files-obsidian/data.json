@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "RAM - MoC",
+      "path": "1. Project/Computer/RAM - MoC.md"
+    },
+    {
+      "basename": "DRAM",
+      "path": "1. Project/Computer/DRAM.md"
+    },
+    {
+      "basename": "RAM Kanban",
+      "path": "6. Plan/RAM Kanban.md"
+    },
+    {
       "basename": "19-01-2026",
       "path": "5. Daily Note/January/19-01-2026.md"
     },
@@ -9,16 +21,8 @@
       "path": "5. Daily Note/January/18-01-2026.md"
     },
     {
-      "basename": "DRAM",
-      "path": "1. Project/Computer/DRAM.md"
-    },
-    {
       "basename": "Trước khi học Rust",
       "path": "6. Plan/Trước khi học Rust.md"
-    },
-    {
-      "basename": "RAM - MoC",
-      "path": "1. Project/Computer/RAM - MoC.md"
     },
     {
       "basename": "Robert_Dennard",
@@ -43,10 +47,6 @@
     {
       "basename": "Selectron",
       "path": "4. Archives/Computer/Hardware/RAM/Selectron.png"
-    },
-    {
-      "basename": "RAM Kanban",
-      "path": "6. Plan/RAM Kanban.md"
     },
     {
       "basename": "Tiếng anh",

@@ -1,11 +1,9 @@
 ---
 tags:
   - computer/computer_hardware/storage_devices
-topic:
 property: Done
-TQ_show_created_date: 2026-01-16
-closed: 2026-01-20
-TQ_show_id:
+created: 2026-01-16
+finished: 2026-01-20
 ---
 
 # RAM 

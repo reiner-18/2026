@@ -22,11 +22,11 @@ kanban-plugin: list
 - [ ] - Power Delivery & Noise
 - [ ] - Hammering
 - [ ] - RowHammer
+- [ ] - Bank, Bank Group & Memory-level Parelleism
 
 
 ## In Development
 
-- [ ] - Bank, Bank Group & Memory-level Parelleism
 
 
 ## Review
@@ -35,6 +35,7 @@ kanban-plugin: list
 
 ## Done
 
+- [ ] - [[RAM - MoC]]
 
 
 
