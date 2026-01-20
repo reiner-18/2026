@@ -1,14 +1,6 @@
 ---
-tags:
-  - computer_engineering/hardware
-  - computer_architecture/memory
-  - hardware_layer/physical
-  - semiconductor_physics
 property: Active
 topic:
-  - RAM
-  - Memory
-  - DRAM
 ---
 
 # RAM 

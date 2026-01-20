@@ -1,3 +1,11 @@
+---
+tags:
+  - computer/computer_hardware/storage_devices
+topic:
+  - RAM
+property: Done
+---
+
 # RAM 
 
 RAM là gì một phần cứng trong máy tính, viết đầy đủ là Random Access Memory (Bộ nhớ truy cập ngẫu nhiên). Là một bộ nhớ tạm thời, tốc độ cao, dùng để lưu trữ dữ liệu và lệnh mà [[CPU]] cần xử lý ngay lập tức. 
@@ -36,38 +44,37 @@ Vào năm 1960, quá trình chuyển đổi từ bộ nhớ lõi từ sang RAM b
 
 Năm 1966, Robert Dennard của IBM phát minh ra bộ nhớ động (DRAM). DRAM sử dụng một transistor và một tụ điện cho mỗi bit, cho phép mật độ cao hơn nhiều so với SRAM. Intel 1103 là chip thương mại đầu tiên được giới thiệu vào năm 1970.
 
+> [!info]- Robert Dennard
+> ![[Robert_Dennard.png]]
+
 Thập kỉ 1980 và 1990 là sự phát triển mạnh mẽ của công nghệ DRAM với sự ra đời của EDO RAM và FPM RAM, dung lượng bộ nhớ liên tục cải tiến từ 16Kb lên 1Mb và hơn thế nữa. Đây cũng là giai đoạn phát triển mạnh của máy tính cá nhân, DRAM trở thành tiêu chuẩn của IBM PC.
 
 Năm 1993, Bộ nhớ SDRAM đồng bộ được giới thiệu, đánh dấu sự thay đổi đáng kể trong công nghệ bộ nhớ. SDRAM đồng bộ hóa với xung nhịp [[CPU]], cho phép truyền dữ liệu hiệu quả hơn và hiệu suất hệ thống tổng thể tốt hơn. SDRAM dần thay thế FPM RAM và trở thành tiêu chuẩn cho các máy tính vào cuối thập niên 1980.
 
+> [!info]- Hình ảnh SDRAM tại năm 2001
+> ![[SDRAM-1993.jpg]]
+
 Cùng thời gian đó, bộ nhớ Rambus DRAM được phát triển như một giải pháp bộ nhớ hiệu suất cao cho các ứng dụng như đồ họa và game. Tuy nhiên RDRAM phải đối mặt với sức ép từ thị trường do chi phí sản xuất quá cao và yêu cầu cấp phép phức tạp. RDRAM thất bại trước các lựa chọn hiệu quả hơn như DDR SDRAM.
 
 Thế kỉ 21 là kỷ nguyên của Double Data Data SDRAM, tăng gấp đôi tốc độ truyền dữ liệu của SDRAM truyền thống bằng cách truyền dữ liệu trên cả cạnh lên và cạnh xuống của tín hiệu xung nhịp. DDR SDRAM được giới thiệu vào năm 2000 và ảnh hưởng mạnh đến tính toán, cho phép tốc độ xử lý nhanh hơn và hiệu quả hơn. Các thế hệ tiếp theo bao gồm DDR2, DDR3, DDR4 và DDR5 tiếp tục cải tiến dựa trên cơ sở này và hiệu quả ngày càng vượt trội.
-
-## Các nhà sản xuất RAM nổi tiếng 
-
-Big Three trong ngành công nghiệp chip nhớ DRAM. không chỉ cung cấp các thanh ram mà còn cung cấp chip cho các nhà sản xuất điện thoại thông minh, máy chủ và data centre.
-
-1. **Samsung Electronics**: Người khổng lồ, dẫn đầu về công nghệ. Thị phần ước tính 40% - 45%n
-2. **SK Hynix**: Đối thủ của Samsung và là nhà sản xuất lớn thứ 2. Là công ty tiên phong trong công nghệ HBM, một loại bộ nhớ rất quan trọng cho các ứng dụng trí tuệ nhân tạo và data centre hiệu năng cao. Thị phần ước tính 25% - 30%
-3. **Micron Technology**: Là nhà sản xuất DRAM lớn duy nhất của Hoa Kỳ. Micron sản xuất dưới thương hiệu riêng như Crucial và cũng cung cấp chip cho các nhà sản xuất khác. Thị phần khoảng 20% đến 25%.
-
-> [!hint] Lưu ý
-> Khi mua một thanh RAM như **Kingston, Corsair, G.Skill hay Crucial**, ta đang mua sản phẩm của các nhà sản xuất module và nhà đóng gói.
-> - Các công ty này không tự sản xuất chip DRAM
-> - Họ mua chip thô rồi sau đó láp ráp chúng lên bản mạch in (PCB), gắn tản nhiệt và bán ra thị trường với chế độ bảo hành riêng.
-> 
-> > Thị phần được nói ở trên là thị phần chip nhớ, không phải bán lẻ
-
 ## Phân loại RAM
 
 RAM được chia làm hai loại chính: [[SRAM|RAM Tĩnh]] và [[DRAM|RAM Động]], trong đó DRAM phổ biến hơn và được chia thành nhiều thế hệ như DDR, DDR2, DDR3, DDR4, DDR5 với tốc độ và hiệu năng thăng tiến, trong khi SRAM dùng trong bộ nhớ cache có tốc độ cao.
 
 Ngoài ra, còn có các loại RAM khác như VRAM, sử dụng trong việc xử lý hình ảnh, video tốc độ cao và Flash Memory là loại bộ nhớ không bay hơi (non-volatile) dùng trong USB, SSD.
 
+> [!info]- DRAM trong GPU rời của NVIDIA
+> ![[VRAM.webp]]
+
 LPDDR là RAM dành cho thiết bị di động, nó được thiết ké để tối ưu hóa cho ứng dụng di động, cải thiện hiệu quả năng lượng mà không ảnh hưởng đến hiệu suất.
 
+> [!info]- LPDDR2 của Samsung
+> ![[Samsung_K4P4G154EC-FGC1_on_main_board-0122.jpg]]
+
 GDDR được phát triển cho các đơn vị xử lý đồ họa cho GPU, đòi hỏi bộ nhớ tốc độ cao để xử lý các như cầu dữ liệu lớn của render hình ảnh và video. GDDR đã được phát triển cùng với GPU và được phát triển lên các phiên bản kế tiếp mạnh mẽ hơn như GDDR3, GDDR5 và GDDR6 (xem thêm về kiến trúc GPU của NVIDIA)
+
+> [!info]- Samsung GDDR3
+> ![[SAMSUNG@QDDR3-SDRAM.jpg]]
 
 Trong đời đống thường ngày, người ta gọi RAM là nói về DRAM. Nhưng trong kĩ thuật, ta nên gọi tên rõ DRAM hoặc SRAM vì RAM gọi chung sẽ không rõ đang nói về cái gì, vì mặt bằng chung chúng đều là bộ nhớ truy cập ngẫu nhiên.
 

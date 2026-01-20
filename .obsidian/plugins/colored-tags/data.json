@@ -10,14 +10,10 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "computer_architecture": 1,
-    "computer_engineering": 1,
+    "computer": 1,
     "excalidraw": 2,
-    "hardware_layer": 2,
-    "semiconductor_physics": 3,
-    "computer_architecture/memory": 1,
-    "computer_engineering/hardware": 1,
-    "hardware_layer/physical": 1
+    "computer/computer_hardware": 1,
+    "computer/computer_hardware/storage_devices": 1
   },
   "tagColors": {},
   "_version": 4
