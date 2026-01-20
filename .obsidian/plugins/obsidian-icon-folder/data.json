@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComputer",
-      "LiSigma",
-      "LiBraces",
-      "LiNotebook",
-      "LiWallet"
+      "LiBirdhouse",
+      "LiLink",
+      "LiPersonStanding",
+      "LiFolderKanban",
+      "LiPencil"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,10 @@
   "3. Resources/Sách & Media": "LiNotebook",
   "3. Resources/Lập trình và công nghệ": "LiBraces",
   "3. Resources/Khoa học cơ bản": "LiSigma",
-  "1. Project/Computer": "LiComputer"
+  "6. Plan/Sketch": "LiPencil",
+  "6. Plan/Kanban": "LiFolderKanban",
+  "3. Resources/Khoa học cơ bản/Cơ thể con người": "LiPersonStanding",
+  "3. Resources/Lập trình và công nghệ/Computer": "LiComputer",
+  "Link Reference.md": "LiLink",
+  "Home.md": "LiBirdhouse"
 }

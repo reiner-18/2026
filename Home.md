@@ -1,11 +1,13 @@
-# Hello Viết Tài
+# Hello
 
-Todo List tuần sau
+Dự án hôm nay
 
-- [ ] Đi làm răng 
-- [x] Module RAM ✅ 2026-01-20
-- [ ] Logarit Toán học 
-- [ ] Học cách lập báo cáo tài chính 
-- [ ] Rebuild road map ôn thi đại học (UEH ngành Quản Trị Kinh Doanh)
+- [[DRAM]]
 
 ---
+# Topic trong tuần
+
+- Lũy thừa trong toán học
+- Transistor
+- Tham khảo công việc job làm sale bên Hải Triều watch
+- Tiếng anh cơ bản
