@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/January/22-01-2026.md",
+                "file": "5. Daily Note/1. January/22-01-2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -224,12 +224,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9ddffb2701f7f6aa",
+  "active": "53acdb839416c1c7",
   "lastOpenFiles": [
+    "5. Daily Note/2. February",
     "Home.md",
-    "5. Daily Note/January/22-01-2026.md",
-    "5. Daily Note/January/21-01-2026.md",
-    "5. Daily Note/January/20-01-2026.md",
+    "5. Daily Note/1. January/22-01-2026.md",
+    "5. Daily Note/1. January/21-01-2026.md",
+    "5. Daily Note/1. January/20-01-2026.md",
     "Link Reference.md",
     "2. Area/Computer/Hardware",
     "3. Resources/Tham khảo",
@@ -240,8 +241,8 @@
     "Untitled Kanban.md",
     "1. Project/DRAM.md",
     "6. Plan/Kanban/RAM Kanban.md",
-    "5. Daily Note/January/19-01-2026.md",
-    "5. Daily Note/January/18-01-2026.md",
+    "5. Daily Note/1. January/19-01-2026.md",
+    "5. Daily Note/1. January/18-01-2026.md",
     "Excalidraw/RAM-Excalidraw.md",
     "1. Project/Computer/Computer.canvas",
     "6. Plan/Sketch/Trước khi học Rust.md",
@@ -265,13 +266,12 @@
     "4. Archives/Computer/Hardware/RAM/RAM-1969.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 291814.crdownload",
     "6. Plan/Sketch/Tiếng anh.md",
-    "5. Daily Note/January/17-01-2026.md",
-    "5. Daily Note/January/16-01-2026.md",
-    "5. Daily Note/January/15-01-2026.md",
-    "5. Daily Note/January/14-01-2026.md",
-    "5. Daily Note/January/13-01-2026.md",
+    "5. Daily Note/1. January/17-01-2026.md",
+    "5. Daily Note/1. January/16-01-2026.md",
+    "5. Daily Note/1. January/15-01-2026.md",
+    "5. Daily Note/1. January/14-01-2026.md",
+    "5. Daily Note/1. January/13-01-2026.md",
     "Memory Controller.md",
-    "5. Daily Note/January/12-01-2026.md",
-    "5. Daily Note/January/11-01-2026.md"
+    "5. Daily Note/1. January/12-01-2026.md"
   ]
 }
