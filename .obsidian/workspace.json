@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c150d11ae20c8011",
+        "id": "6d122e8fb6a2363a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b72c7af656bbd99",
+            "id": "369fce5848ee3a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/1. January/24-01-2026.md",
+                "file": "5. Daily Note/1. January/25-01-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-01-2026"
+              "title": "25-01-2026"
             }
           }
         ]
@@ -224,11 +224,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b72c7af656bbd99",
+  "active": "369fce5848ee3a14",
   "lastOpenFiles": [
     "Home.md",
-    "3. Resources/Lập trình và công nghệ/Sub array.md",
+    "5. Daily Note/1. January/25-01-2026.md",
     "5. Daily Note/1. January/24-01-2026.md",
+    "3. Resources/Lập trình và công nghệ/Sub array.md",
     "5. Daily Note/1. January/23-02-2026.md",
     "5. Daily Note/1. January/22-01-2026.md",
     "5. Daily Note/2. February",
@@ -271,7 +272,6 @@
     "5. Daily Note/1. January/17-01-2026.md",
     "5. Daily Note/1. January/16-01-2026.md",
     "5. Daily Note/1. January/15-01-2026.md",
-    "5. Daily Note/1. January/14-01-2026.md",
-    "5. Daily Note/1. January/13-01-2026.md"
+    "5. Daily Note/1. January/14-01-2026.md"
   ]
 }
