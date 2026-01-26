@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d122e8fb6a2363a",
+        "id": "e9878f586fa27a72",
         "type": "tabs",
         "children": [
           {
-            "id": "369fce5848ee3a14",
+            "id": "b08b01781f903965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/DRAM.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRAM"
+              "title": "Home"
             }
           }
         ]
@@ -224,21 +224,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "53acdb839416c1c7",
+  "active": "b08b01781f903965",
   "lastOpenFiles": [
+    "3. Resources/Sách & Media/Hổ trướng khu cơ - Đào Duy Từ.pdf",
     "Home.md",
+    "5. Daily Note/1. January/26-01-2026.md",
+    "3. Resources/Sách & Media/Unconfirmed 239403.crdownload",
+    "5. Daily Note/1. January/25-01-2026.md",
+    "5. Daily Note/1. January/24-01-2026.md",
+    "5. Daily Note/1. January/23-02-2026.md",
+    "5. Daily Note/1. January/22-01-2026.md",
+    "5. Daily Note/1. January/21-01-2026.md",
+    "5. Daily Note/1. January/17-01-2026.md",
+    "5. Daily Note/1. January/18-01-2026.md",
+    "5. Daily Note/1. January/19-01-2026.md",
+    "5. Daily Note/1. January/20-01-2026.md",
+    "1. Project/DRAM.md",
     "3. Resources/Lập trình và công nghệ/Sub array.md",
     "Link Reference.md",
     "6. Plan/Kanban/RAM Kanban.md",
     "6. Plan/Sketch/Tiếng anh.md",
     "6. Plan/Sketch/Trước khi học Rust.md",
-    "5. Daily Note/1. January/25-01-2026.md",
-    "5. Daily Note/1. January/24-01-2026.md",
-    "5. Daily Note/1. January/23-02-2026.md",
-    "5. Daily Note/1. January/22-01-2026.md",
     "5. Daily Note/2. February",
-    "5. Daily Note/1. January/21-01-2026.md",
-    "5. Daily Note/1. January/20-01-2026.md",
     "2. Area/Computer/Hardware",
     "3. Resources/Tham khảo",
     "2. Area/Computer/Hardware/RAM - MoC.md",
@@ -246,9 +253,6 @@
     "6. Plan/Kanban",
     "6. Plan/Sketch",
     "Untitled Kanban.md",
-    "1. Project/DRAM.md",
-    "5. Daily Note/1. January/19-01-2026.md",
-    "5. Daily Note/1. January/18-01-2026.md",
     "Excalidraw/RAM-Excalidraw.md",
     "1. Project/Computer/Computer.canvas",
     "Pasted image 20260120094340.png",
@@ -261,17 +265,12 @@
     "4. Archives/Computer/Hardware/RAM/Samsung_K4P4G154EC-FGC1_on_main_board-0122.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 691687.crdownload",
     "4. Archives/Computer/Hardware/RAM/VRAM.webp",
-    "4. Archives/Computer/Hardware/RAM/Unconfirmed 34048.crdownload",
     "4. Archives/Computer/Hardware/RAM/SDRAM-1993.jpg",
-    "4. Archives/Computer/Hardware/RAM/Unconfirmed 677234.crdownload",
     "Pasted image 20260120093820.md",
     "Pasted image 20260120093820.png",
     "Pasted image 20260120093820 1.png",
     "Pasted image 20260120093822.png",
     "4. Archives/Computer/Hardware/RAM/RAM-1969.jpg",
-    "5. Daily Note/1. January/17-01-2026.md",
-    "5. Daily Note/1. January/16-01-2026.md",
-    "5. Daily Note/1. January/15-01-2026.md",
-    "5. Daily Note/1. January/14-01-2026.md"
+    "5. Daily Note/1. January/16-01-2026.md"
   ]
 }
