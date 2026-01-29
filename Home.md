@@ -1,4 +1,4 @@
-	# Chào Viết Tài
+# Chào Viết Tài
 
 Dự án tuần
 
@@ -24,6 +24,8 @@ Dự án tuần
 ## Sách
 
 - Hổ trướng khu cơ, viết vào Obsidian
+- Quân vương
+- Bố già
 
 # Giao diện
 
