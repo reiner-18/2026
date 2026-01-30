@@ -11,10 +11,14 @@
             "id": "3f6e8258f2684beb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "5. Daily Note/1. January/30-01-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30-01-2026"
             }
           }
         ]
@@ -213,6 +217,7 @@
   "active": "3f6e8258f2684beb",
   "lastOpenFiles": [
     "Home.md",
+    "5. Daily Note/1. January/30-01-2026.md",
     "5. Daily Note/1. January/23-01-2026.md",
     "6. Plan/Sketch/Tiếng anh.md",
     "Link Reference.md",
@@ -248,7 +253,6 @@
     "Excalidraw/RAM-Excalidraw.md",
     "1. Project/Computer/Computer.canvas",
     "Pasted image 20260120094340.png",
-    "1. Project/Computer/RAM.md",
     "4. Archives/Computer/Hardware/RAM/Robert_Dennard.png",
     "4. Archives/Computer/Hardware/RAM/SAMSUNG@QDDR3-SDRAM.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 421143.crdownload",
