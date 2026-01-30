@@ -14,6 +14,7 @@ Dự án tuần
 - Kĩ thuật lính canh
 - Kĩ thuật đệ quy
 
+> Hiện đang làm các bài Rating 800 trên Codeforce
 ## Sức khỏe
 
 - Tập kegel
@@ -24,7 +25,7 @@ Dự án tuần
 ## Sách
 
 - Hổ trướng khu cơ, viết vào Obsidian
-- Quân vương
+- Quân vương | Đang tiến hành
 - Bố già
 
 # Giao diện
@@ -32,5 +33,5 @@ Dự án tuần
 - Học phối đồ, màu sắc cơ bản
 - Nghe tiếng anh không sub
 
-> [!warning] Cảnh báo
-> Ít chơi game
+> [!abstract]- Note
+> Tìm hiểu về Toán định lượng - Tăng giá trị tài sản bằng đầu tư

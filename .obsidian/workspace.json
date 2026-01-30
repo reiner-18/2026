@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb7a7fc5a63a9aa0",
+        "id": "6e67f4aca590f4f5",
         "type": "tabs",
         "children": [
           {
-            "id": "86453ff2a634226e",
+            "id": "3f6e8258f2684beb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -214,10 +210,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "86453ff2a634226e",
+  "active": "3f6e8258f2684beb",
   "lastOpenFiles": [
-    "5. Daily Note/1. January/29-01-2026.md",
     "Home.md",
+    "5. Daily Note/1. January/23-01-2026.md",
+    "6. Plan/Sketch/Tiếng anh.md",
+    "Link Reference.md",
+    "3. Resources/Sách & Media/Quân Vương/1.md",
+    "3. Resources/Sách & Media/Quân Vương/2.md",
+    "3. Resources/Sách & Media/Quân Vương",
+    "5. Daily Note/1. January/29-01-2026.md",
     "5. Daily Note/1. January/28-01-2026.md",
     "5. Daily Note/1. January/27-01-2026.md",
     "3. Resources/Sách & Media/Hổ trướng khu cơ - Đào Duy Từ.pdf",
@@ -225,7 +227,6 @@
     "3. Resources/Sách & Media/Unconfirmed 239403.crdownload",
     "5. Daily Note/1. January/25-01-2026.md",
     "5. Daily Note/1. January/24-01-2026.md",
-    "5. Daily Note/1. January/23-02-2026.md",
     "5. Daily Note/1. January/22-01-2026.md",
     "5. Daily Note/1. January/21-01-2026.md",
     "5. Daily Note/1. January/17-01-2026.md",
@@ -234,9 +235,7 @@
     "5. Daily Note/1. January/20-01-2026.md",
     "1. Project/DRAM.md",
     "3. Resources/Lập trình và công nghệ/Sub array.md",
-    "Link Reference.md",
     "6. Plan/Kanban/RAM Kanban.md",
-    "6. Plan/Sketch/Tiếng anh.md",
     "6. Plan/Sketch/Trước khi học Rust.md",
     "5. Daily Note/2. February",
     "2. Area/Computer/Hardware",
@@ -251,12 +250,9 @@
     "Pasted image 20260120094340.png",
     "1. Project/Computer/RAM.md",
     "4. Archives/Computer/Hardware/RAM/Robert_Dennard.png",
-    "3. Resources/Doanh nghiệp & Thị trường/Báo cáo tài chính.md",
-    "3. Resources/Doanh nghiệp & Thị trường/Biti's.md",
     "4. Archives/Computer/Hardware/RAM/SAMSUNG@QDDR3-SDRAM.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 421143.crdownload",
     "4. Archives/Computer/Hardware/RAM/Samsung_K4P4G154EC-FGC1_on_main_board-0122.jpg",
-    "4. Archives/Computer/Hardware/RAM/Unconfirmed 691687.crdownload",
     "4. Archives/Computer/Hardware/RAM/VRAM.webp",
     "4. Archives/Computer/Hardware/RAM/SDRAM-1993.jpg",
     "Pasted image 20260120093820.png",
