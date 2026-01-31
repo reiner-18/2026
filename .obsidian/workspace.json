@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e67f4aca590f4f5",
+        "id": "92343e2d00df7d55",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6e8258f2684beb",
+            "id": "e6584a0e8e31c9ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/1. January/30-01-2026.md",
+                "file": "5. Daily Note/1. January/31-01-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-01-2026"
+              "title": "31-01-2026"
             }
           }
         ]
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "9e1c312546fa7f03",
+            "id": "cec4cceb1798cbbc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,22 +151,22 @@
             }
           },
           {
-            "id": "d8798e08eeb3a61e",
+            "id": "2d7d601957a9f123",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Plan/Trước khi học Rust.md",
+                "file": "5. Daily Note/1. January/31-01-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trước khi học Rust"
+              "title": "Outline of 31-01-2026"
             }
           },
           {
-            "id": "babdf21b8cc4148e",
+            "id": "4e23ca114de92594",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -214,9 +214,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3f6e8258f2684beb",
+  "active": "cec4cceb1798cbbc",
   "lastOpenFiles": [
     "Home.md",
+    "5. Daily Note/1. January/31-01-2026.md",
     "5. Daily Note/1. January/30-01-2026.md",
     "5. Daily Note/1. January/23-01-2026.md",
     "6. Plan/Sketch/Tiếng anh.md",
@@ -250,7 +251,6 @@
     "6. Plan/Kanban",
     "6. Plan/Sketch",
     "Untitled Kanban.md",
-    "Excalidraw/RAM-Excalidraw.md",
     "1. Project/Computer/Computer.canvas",
     "Pasted image 20260120094340.png",
     "4. Archives/Computer/Hardware/RAM/Robert_Dennard.png",
