@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92343e2d00df7d55",
+        "id": "0b152065ea7bf789",
         "type": "tabs",
         "children": [
           {
-            "id": "e6584a0e8e31c9ba",
+            "id": "5cb628d28c62cc77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/1. January/31-01-2026.md",
+                "file": "5. Daily Note/2. February/01-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31-01-2026"
+              "title": "01-02-2026"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-01-2026.md",
+                "file": "5. Daily Note/2. February/01-02-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-01-2026"
+              "title": "Backlinks for 01-02-2026"
             }
           },
           {
@@ -214,9 +214,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cec4cceb1798cbbc",
+  "active": "92f9ecd4188c45c8",
   "lastOpenFiles": [
+    "3. Resources/Sách & Media/Bố Già/Cuốn 1.md",
+    "5. Daily Note/2. February/01-02-2026.md",
     "Home.md",
+    "3. Resources/Sách & Media/Bố Già",
     "5. Daily Note/1. January/31-01-2026.md",
     "5. Daily Note/1. January/30-01-2026.md",
     "5. Daily Note/1. January/23-01-2026.md",
@@ -246,16 +249,13 @@
     "5. Daily Note/2. February",
     "2. Area/Computer/Hardware",
     "3. Resources/Tham khảo",
-    "2. Area/Computer/Hardware/RAM - MoC.md",
     "2. Area/Computer",
     "6. Plan/Kanban",
     "6. Plan/Sketch",
-    "Untitled Kanban.md",
     "1. Project/Computer/Computer.canvas",
     "Pasted image 20260120094340.png",
     "4. Archives/Computer/Hardware/RAM/Robert_Dennard.png",
     "4. Archives/Computer/Hardware/RAM/SAMSUNG@QDDR3-SDRAM.jpg",
-    "4. Archives/Computer/Hardware/RAM/Unconfirmed 421143.crdownload",
     "4. Archives/Computer/Hardware/RAM/Samsung_K4P4G154EC-FGC1_on_main_board-0122.jpg",
     "4. Archives/Computer/Hardware/RAM/VRAM.webp",
     "4. Archives/Computer/Hardware/RAM/SDRAM-1993.jpg",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHatGlasses",
       "LiChessQueen",
       "LiBirdhouse",
       "LiLink",
-      "LiPersonStanding",
-      "LiFolderKanban"
+      "LiPersonStanding"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "Link Reference.md": "LiLink",
   "Home.md": "LiBirdhouse",
   "2. Area/Computer": "LiComputer",
-  "3. Resources/Sách & Media/Quân Vương": "LiChessQueen"
+  "3. Resources/Sách & Media/Quân Vương": "LiChessQueen",
+  "3. Resources/Sách & Media/Bố Già": "LiHatGlasses"
 }
