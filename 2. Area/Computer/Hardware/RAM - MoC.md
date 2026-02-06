@@ -5,7 +5,6 @@ property: Done
 created: 2026-01-16
 finished: 2026-01-20
 ---
-
 # RAM 
 
 RAM là gì một phần cứng trong máy tính, viết đầy đủ là Random Access Memory (Bộ nhớ truy cập ngẫu nhiên). Là một bộ nhớ tạm thời, tốc độ cao, dùng để lưu trữ dữ liệu và lệnh mà [[CPU]] cần xử lý ngay lập tức. 

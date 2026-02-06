@@ -1,21 +1,16 @@
 # Daily routine
 
-- [ ] 1 problem codeforce
-- [ ] Chép 1 đoạn sách 
-- [ ] Viết nhật ký
-- [ ] Tập Glute Bridge 
+- [x] 1 problem codeforce ✅ 2026-02-07
+- [x] Chép 1 đoạn sách ✅ 2026-02-06
+- [x] Viết nhật ký ✅ 2026-02-07
+- [x] Tập Glute Bridge ✅ 2026-02-06
 
-## Dự kiến thói quen cần tập luyện
+## Tiến hành
 
-- Học một thứ gì đó mới. (Hoàn thành bài viết về [[DRAM]])
-
-
+- [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory)
+- Công nghệ bán dẫn Oxit kim loại
 ## Task hôm nay
 
-- [ ] Giặt quần áo 🔼 
-- [ ] Giặt mũ bảo hiểm ⏫ 
-- [ ] Hốt cức mèo ⏫ 
-- [ ] Lau nhà ⏫ 
-- [ ] Vệ sinh quạt 🔽 
-- [ ] Thiết kế lại ngôi nhà 🔼 
-- [ ] Quét sân ⏬  
+- [ ] Vệ sinh quạt ⏫ 
+- [ ] Cạo râu ⏫ 
+- [ ] Đi làm răng ⏫ 
