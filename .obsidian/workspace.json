@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "59427bcd2f0546ff",
+        "id": "9276b0b25ba34e97",
         "type": "tabs",
         "children": [
           {
-            "id": "2073e235250ff466",
+            "id": "9737e4db49532dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Plan/Sketch/Target năm.md",
+                "file": "5. Daily Note/2. February/07-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Target năm"
+              "title": "07-02-2026"
             }
           }
         ]
@@ -214,13 +214,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2073e235250ff466",
+  "active": "9737e4db49532dec",
   "lastOpenFiles": [
-    "6. Plan/Sketch/Trước khi học Rust.md",
-    "6. Plan/Sketch/Target năm.md",
-    "6. Plan/Sketch/Tiếng anh.md",
-    "Home.md",
+    "3. Resources/Sách & Media/Bố Già/Cuốn 1/4.md",
+    "5. Daily Note/2. February/07-02-2026.md",
     "3. Resources/Link Reference.md",
+    "Home.md",
+    "6. Plan/Sketch/Target năm.md",
+    "6. Plan/Sketch/Trước khi học Rust.md",
+    "6. Plan/Sketch/Tiếng anh.md",
     "1. Project/DRAM.md",
     "6. Plan/Kanban/RAM Kanban.md",
     "4. Archives/Computer/Hardware/RAM/DRAM.jpg",
@@ -229,7 +231,6 @@
     "5. Daily Note/2. February/06-02-2026.md",
     "2. Area/Computer/Hardware/RAM - MoC.md",
     "3. Resources/Doanh nghiệp & Thị trường/Thuế hồng.md",
-    "3. Resources/Sách & Media/Bố Già/Cuốn 1/4.md",
     "5. Daily Note/2. February/05-02-2026.md",
     "5. Daily Note/2. February/04-02-2026.md",
     "3. Resources/Doanh nghiệp & Thị trường/Biti's.md",
@@ -246,7 +247,6 @@
     "5. Daily Note/1. January/30-01-2026.md",
     "5. Daily Note/1. January/23-01-2026.md",
     "3. Resources/Sách & Media/Quân Vương/1.md",
-    "3. Resources/Sách & Media/Quân Vương/2.md",
     "3. Resources/Sách & Media/Quân Vương",
     "3. Resources/Sách & Media/Hổ trướng khu cơ - Đào Duy Từ.pdf",
     "3. Resources/Sách & Media/Unconfirmed 239403.crdownload",

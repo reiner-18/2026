@@ -12,5 +12,9 @@
 ## Task hôm nay
 
 - [ ] Vệ sinh quạt ⏫ 
-- [ ] Cạo râu ⏫ 
-- [ ] Đi làm răng ⏫ 
+- [ ] Cạo râu ⏫  
+- [ ] Thay nhớt xe
+- [ ] Mua cát mèo 
+- [ ] Mua hạt mèo 
+- [ ] Mua đồ chơi cho mèo 
+- [ ] Mua thùng mì indomie
