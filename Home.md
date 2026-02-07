@@ -1,13 +1,13 @@
 # Daily routine
 
 - [x] 1 problem codeforce ✅ 2026-02-07
-- [x] Chép 1 đoạn sách ✅ 2026-02-06
-- [x] Viết nhật ký ✅ 2026-02-07
-- [x] Tập Glute Bridge ✅ 2026-02-06
+- [ ] Chép 1 đoạn sách
+- [ ] Viết nhật ký
+- [ ] Tập Glute Bridge
 
 ## Tiến hành
 
-- [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory)
+- [DRAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory) - Đang tiến hành [[RAM Kanban]]
 - Công nghệ bán dẫn Oxit kim loại
 ## Task hôm nay
 

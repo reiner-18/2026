@@ -47,9 +47,9 @@
   "6. Plan/Sketch": "LiPencil",
   "6. Plan/Kanban": "LiFolderKanban",
   "3. Resources/Khoa học cơ bản/Cơ thể con người": "LiPersonStanding",
-  "Link Reference.md": "LiLink",
   "Home.md": "LiBirdhouse",
   "2. Area/Computer": "LiComputer",
   "3. Resources/Sách & Media/Quân Vương": "LiChessQueen",
-  "3. Resources/Sách & Media/Bố Già": "LiHatGlasses"
+  "3. Resources/Sách & Media/Bố Già": "LiHatGlasses",
+  "3. Resources/Link Reference.md": "LiLink"
 }
