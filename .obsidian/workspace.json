@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15066b1c6a60defd",
+        "id": "5e03487b4491689d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa592713329d2482",
+            "id": "066d507e1a759a39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Sách & Media/Bố Già/Cuốn 1/4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trước khi học Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trước khi học Rust"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily Note/1. January/31-01-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 31-01-2026"
+              "title": "Outline"
             }
           },
           {
@@ -214,16 +208,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa592713329d2482",
+  "active": "066d507e1a759a39",
   "lastOpenFiles": [
+    "5. Daily Note/2. February/08-02-2026.md",
+    "1. Project/DRAM Rework.md",
+    "1. Project/DRAM.md",
     "Home.md",
-    "5. Daily Note/2. February/07-02-2026.md",
     "3. Resources/Sách & Media/Bố Già/Cuốn 1/4.md",
+    "5. Daily Note/2. February/07-02-2026.md",
     "3. Resources/Link Reference.md",
     "6. Plan/Sketch/Target năm.md",
     "6. Plan/Sketch/Trước khi học Rust.md",
     "6. Plan/Sketch/Tiếng anh.md",
-    "1. Project/DRAM.md",
     "6. Plan/Kanban/RAM Kanban.md",
     "4. Archives/Computer/Hardware/RAM/DRAM.jpg",
     "4. Archives/Computer/Hardware/RAM/Unconfirmed 137765.crdownload",
@@ -245,8 +241,6 @@
     "3. Resources/Sách & Media/Bố Già",
     "5. Daily Note/1. January/31-01-2026.md",
     "5. Daily Note/1. January/30-01-2026.md",
-    "5. Daily Note/1. January/23-01-2026.md",
-    "3. Resources/Sách & Media/Quân Vương/1.md",
     "3. Resources/Sách & Media/Quân Vương",
     "3. Resources/Sách & Media/Hổ trướng khu cơ - Đào Duy Từ.pdf",
     "3. Resources/Sách & Media/Unconfirmed 239403.crdownload",
