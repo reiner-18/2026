@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07b585e59a38cedb",
+        "id": "a8c842dba1b36506",
         "type": "tabs",
         "children": [
           {
-            "id": "bc764d5cf3cdad01",
+            "id": "7499eb8c338b8a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily Note/2. February/09-02-2026.md",
+                "file": "5. Daily Note/2. February/10-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-02-2026"
+              "title": "10-02-2026"
             }
           }
         ]
@@ -155,16 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "5. Daily Note/2. February/10-02-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 10-02-2026"
             }
           },
           {
-            "id": "4e23ca114de92594",
+            "id": "8f1763b40aba6fb2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -212,13 +213,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc764d5cf3cdad01",
+  "active": "7499eb8c338b8a88",
   "lastOpenFiles": [
-    "3. Resources/Sách & Media/Bố Già/Cuốn 1/5.md",
+    "Home.md",
+    "5. Daily Note/2. February/10-02-2026.md",
     "5. Daily Note/2. February/09-02-2026.md",
+    "3. Resources/Sách & Media/Bố Già/Cuốn 1/5.md",
     "3. Resources/Sách & Media/Bố Già/Cuốn 1/4.md",
     "1. Project/DRAM Rework.md",
-    "Home.md",
     "2. Area/Computer/Hardware/RAM - MoC.md",
     "5. Daily Note/2. February/08-02-2026.md",
     "1. Project/DRAM.md",
@@ -243,7 +245,6 @@
     "3. Resources/Sách & Media/Bố Già/Cuốn 1",
     "5. Daily Note/2. February/03-02-2026.md",
     "5. Daily Note/2. February/02-02-2026.md",
-    "5. Daily Note/2. February/01-02-2026.md",
     "3. Resources/Sách & Media/Bố Già",
     "3. Resources/Sách & Media/Quân Vương",
     "3. Resources/Sách & Media/Hổ trướng khu cơ - Đào Duy Từ.pdf",
