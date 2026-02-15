@@ -11,14 +11,14 @@
             "id": "cbd16aaa04177373",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "5. Daily Note/2. February/14-02-2026.md",
-                "bFile": "5. Daily Note/2. February/14-02-2026.md",
-                "aRef": ""
+                "file": "5. Daily Note/2. February/15-02-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 14-02-2026"
+              "icon": "lucide-file",
+              "title": "15-02-2026"
             }
           }
         ]
@@ -215,9 +215,10 @@
   },
   "active": "cbd16aaa04177373",
   "lastOpenFiles": [
+    "Home.md",
+    "5. Daily Note/2. February/15-02-2026.md",
     "5. Daily Note/2. February/14-02-2026.md",
     "5. Daily Note/2. February/07-02-2026.md",
-    "Home.md",
     "5. Daily Note/2. February/13-02-2026.md",
     "5. Daily Note/2. February/12-02-2026.md",
     "a.md",
@@ -242,7 +243,6 @@
     "5. Daily Note/2. February/06-02-2026.md",
     "3. Resources/Doanh nghiệp & Thị trường/Thuế hồng.md",
     "5. Daily Note/2. February/05-02-2026.md",
-    "5. Daily Note/2. February/04-02-2026.md",
     "3. Resources/Sách & Media/Bố Già/Untitled/Untitled",
     "3. Resources/Sách & Media/Bố Già/Cuốn 1",
     "3. Resources/Sách & Media/Bố Già",
